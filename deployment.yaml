@@ -35,5 +35,5 @@ spec:
     - protocol: "TCP"
       port: 80
       targetPort: 8080
-      nordPort: 31000
+      nodePort: 31000
   type: Nodeport # type of the service.
